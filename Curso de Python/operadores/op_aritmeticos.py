@@ -4,7 +4,7 @@ resta = 12 - 5
 
 # multiplicacion y division (* y /)
 multiplicacion = 12 * 5
-division = 12/ 5
+division = 12 / 5
 
 # potenciacion (**)
 exponente = 12 ** 5
